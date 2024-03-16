@@ -64,6 +64,7 @@
      height: 10vh;
      position: sticky;
      top:0px;
+     z-index: 4;
  }
 
  #container_navbar .heading {
